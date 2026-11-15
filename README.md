@@ -1,20 +1,17 @@
-# Resume & Portfolio — ธนวัฒน์ จงสูงเนิน
+# MyPage v2 — Christmas Theme
+ไฟล์: `index.html`, `contact.html`, `style.css`, `assets/profile.jpg`
 
-เว็บไซต์ Resume ภาษาไทยแบบ responsive สร้างด้วย HTML และ CSS พร้อมปุ่มบันทึกเป็น PDF
+เปิด `index.html` ด้วยเบราว์เซอร์หรือ Live Server ใน VS Code
 
-## วิธีเปิดดูในเครื่อง
-1. แตกไฟล์ ZIP
-2. เปิด `index.html` ในเบราว์เซอร์
+## GitHub Pages
+1. สร้าง Repository ใหม่ที่แตกต่างจากการบ้าน #2
+2. อัปโหลดไฟล์ทั้งหมดโดยคงโครงสร้างโฟลเดอร์เดิม
+3. Settings → Pages → Deploy from a branch
+4. เลือก `main` และ `/ (root)` แล้ว Save
+5. คัดลอก URL ที่ GitHub Pages แสดงไปส่งใน Homework #3.10
 
-## วิธีนำขึ้น GitHub Pages
-1. เข้า GitHub แล้วสร้าง repository ใหม่ เช่น `tanawat-resume`
-2. อัปโหลด `index.html` และโฟลเดอร์ `assets` เข้าไปที่หน้าแรกของ repository
-3. ไปที่ **Settings → Pages**
-4. ในส่วน **Build and deployment** เลือก **Deploy from a branch**
-5. เลือก branch `main` และ folder `/ (root)` แล้วกด **Save**
-6. รอสักครู่ จากนั้น GitHub จะแสดงลิงก์เว็บไซต์ในหน้า Pages
-
-## ปรับแต่งก่อนเผยแพร่
-- หากต้องการเพิ่มเบอร์โทร อีเมล หรือ GitHub ให้เพิ่มข้อมูลในหน้าเว็บก่อนเผยแพร่
-- ตรวจสอบชื่อสถานศึกษาและรายละเอียดการฝึกงานให้ตรงกับข้อมูลทางการ
-- รูปโปรไฟล์อยู่ที่ `assets/profile.jpg`
+## แก้ก่อนส่ง
+- เติมชื่อสาขาวิชาจริง
+- แก้รายการอาหารให้ตรงกับสิ่งที่ชอบจริง
+- ปรับระดับพลังของทักษะให้ตรงกับความสามารถ
+- แบบฟอร์มเป็น Frontend demo ยังไม่ได้ส่งข้อมูลไปอีเมลหรือฐานข้อมูล
